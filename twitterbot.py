@@ -35,7 +35,7 @@ def post_status(api, message):
 
 def get_spell():
     domain = "http://www.pjmcnally.net"
-    payload = {"track": False, "key": secrets.twitterbot_key}
+    payload = {"track": True, "key": secrets.twitterbot_key}
 
     r = requests.post(domain + "/spellbook/random_json", data=payload)
     data = r.json()
