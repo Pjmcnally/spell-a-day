@@ -3,7 +3,7 @@ A TwitterBot to post a spell a day from my D&amp;D 5e [Spellbook](http://www.pjm
 
 This is a simple TwitterBot I made. It works with my Spellbook site to tweet a D&D 5e spell every day.
 
-Each spell will be tweeted once and then the bot will start over.
+Each spell will be tweeted once, selected randomly, and then the bot will start over.
 
 To see the results check out [@PatrickJMcNally](https://twitter.com/PatrickJMcNally).
 
